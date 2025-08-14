@@ -1,6 +1,7 @@
 #include<stdio.h>
-int main()
+int main(void)
 {
-	printf("this is test");
+	printf("dddddddd\n");
+	printf("aaaaaaaaaa\n");
 	return 0;
 }
